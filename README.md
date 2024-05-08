@@ -41,5 +41,11 @@ Se realizó un notebook previo al levantamiento de la API para verificar la lóg
    
 Se creó la API con el siguiente proceso: Se creó un entorno virtual donde se pudo trabajar la API a nivel local, se comprobó la funcionalidad de la API constantemente con el archivo .py y se descargaron las librerías a utilizar en el mismo entorno.
 
-RENDER
+5. RENDER
 Si se han realizado correctamente los pasos anteriores, RENDER debería funcionar sin problemas. Esta herramienta trabaja directamente con el repositorio y, al agregar el requirements.txt correctamente, cualquier persona puede conectarse con nuestro 'web service'.
+
+
+
+link Render: https://videogames-pruh.onrender.com/docs
+link Youtube: https://www.youtube.com/watch?v=2yDkn91ImRg
+link Github: https://github.com/Dannieell/Videogames
